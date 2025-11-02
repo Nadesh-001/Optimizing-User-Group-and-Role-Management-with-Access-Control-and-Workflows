@@ -1,2 +1,2 @@
 # Optimizing-User-Group-and-Role-Management-with-Access-Control-and-Workflows
-project is a centralized, high-performance Identity and Access Management (IAM) system designed to solve critical security and operational challenges within a large organization.  The core problem it addresses is that traditional access control is often manual, slow, and insecure. Relying on emails and helpdesk tickets for permission .
+ This project is a centralized, high-performance Identity and Access Management (IAM) system designed to solve critical security and operational challenges within a large organization.  The core problem it addresses is that traditional access control is often manual, slow, and insecure. Relying on emails and helpdesk tickets for permission to agree or not
